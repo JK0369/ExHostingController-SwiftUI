@@ -13,6 +13,8 @@
 		4AC37E5D28FE3882009DC82B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AC37E5B28FE3882009DC82B /* Main.storyboard */; };
 		4AC37E5F28FE3883009DC82B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4AC37E5E28FE3883009DC82B /* Assets.xcassets */; };
 		4AC37E6228FE3883009DC82B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4AC37E6028FE3883009DC82B /* LaunchScreen.storyboard */; };
+		4AC37E6C28FE3A79009DC82B /* MyHostingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC37E6B28FE3A79009DC82B /* MyHostingController.swift */; };
+		4AC37E6E28FE3B47009DC82B /* MySwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4AC37E6D28FE3B47009DC82B /* MySwiftUIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		4AC37E5E28FE3883009DC82B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4AC37E6128FE3883009DC82B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4AC37E6328FE3883009DC82B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4AC37E6B28FE3A79009DC82B /* MyHostingController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyHostingController.swift; sourceTree = "<group>"; };
+		4AC37E6D28FE3B47009DC82B /* MySwiftUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MySwiftUIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				4AC37E5E28FE3883009DC82B /* Assets.xcassets */,
 				4AC37E6028FE3883009DC82B /* LaunchScreen.storyboard */,
 				4AC37E6328FE3883009DC82B /* Info.plist */,
+				4AC37E6B28FE3A79009DC82B /* MyHostingController.swift */,
+				4AC37E6D28FE3B47009DC82B /* MySwiftUIView.swift */,
 			);
 			path = TestHostingController;
 			sourceTree = "<group>";
@@ -141,6 +147,8 @@
 				4AC37E5A28FE3882009DC82B /* ViewController.swift in Sources */,
 				4AC37E5628FE3882009DC82B /* AppDelegate.swift in Sources */,
 				4AC37E5828FE3882009DC82B /* SceneDelegate.swift in Sources */,
+				4AC37E6C28FE3A79009DC82B /* MyHostingController.swift in Sources */,
+				4AC37E6E28FE3B47009DC82B /* MySwiftUIView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
